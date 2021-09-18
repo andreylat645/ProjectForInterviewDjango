@@ -7,3 +7,6 @@ To start the project you need:
 4. pip install requirements.txt
 5. python3 manage.py migrate
 6. python3 manage.py runserver
+
+Running with docker-compose:
+1. sudo docker-compose up
